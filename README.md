@@ -1,4 +1,4 @@
-## Hi 👋 I'm Ajay, a Senior Software Engineer 👨‍💻** 
+## Hi 👋 I'm Ajay, an Azure Cloud Consultant 👨‍💻** 
 
 I'm an experienced software developer with over 15+ years of professional working experience. My main area of focus is design and development of software using .NET, but I'm also passionate about learning new technologies, especially Azure, AI/ML. <br /> <br />
 
