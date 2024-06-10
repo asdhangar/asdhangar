@@ -18,3 +18,7 @@ I'm an experienced software developer with over 15+ years of professional workin
 <p>I am proficient in various OOP programming languages and frameworks and familiar with software architecture, design patterns, and the SDLC workflow. I always stay abreast of industry trends and best practices, excel in forum discussions, and tackle coding challenges with other developers.</p>
 
 <p>I always welcome you to return and start our exciting collaboration!</p>
+
+
+| <a href="https://github.com/asdhangar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asdhangar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/asdhangar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdhangar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
