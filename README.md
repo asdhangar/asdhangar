@@ -20,5 +20,5 @@ I'm an experienced software developer with over 15+ years of professional workin
 <p>I always welcome you to return and start our exciting collaboration!</p>
 
 
-| <a href="https://github.com/asdhangar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asdhangar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/asdhangar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdhangar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/asdhangar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asdhangar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ajay's github stats" /></a> | <a href="https://github.com/asdhangar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdhangar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
